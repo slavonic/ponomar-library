@@ -1,20 +1,20 @@
 ---
 layout: default
 ref: paleography
-lang: en
+lang: ru
 ---
 
-## Paleography
+## Палеография
 
-This page contains resources for Greek and Slavic Paleography, as the courses
-are taught at St. Petersburg Theological Academy.
+Эта страница содержит ресурсы по греческой и славянской палеографии для курсов палеографии,
+преподаваемых на магистратуре Санкт-Петербургской духовной академии.
 
-### Manuscript Catalogs
+### Каталоги рукописей
 
 * J.-M. Olivier. [Répertoire des bibliothèques et des catalogues de manuscrits grecs
   de Marcel Richard](https://www.ponomar.net/data/protected/olivier.pdf). 3rd edition, 1995.
 
-#### Monasteries of Mt. Athos
+#### Монастыри св. горы Афон
 
 * Κατάλογος τῶν ἐν ταῖς βιβλιοθήκαις τοῦ ἁγίου ὄρους ἑλληνικῶν κωδίκων. / Σπυρίδων Π Λάμπρος.  Ἐν Ἀθηναῖς,
   [1888. Τ. Αʹ. Μ. Αʹ](https://www.ponomar.net/data/paleography/lampros1.pdf)
@@ -34,7 +34,7 @@ are taught at St. Petersburg Theological Academy.
 * [A Descriptive Checklist of Selected Manuscripts in the Monasteries of Mount Athos](http://lcweb2.loc.gov/service/gdc/scd0001/2012/20120109001de/20120109001de.pdf)
   / Ed. E. W. Saunders, C. G. Lahood, Jr. Washington, 1957.
 
-#### St. Catherine's Monastery on Mt. Sinai
+#### Монастырь св. вмц. Екатерины на Синае
 
 * Gardthausen V. [Catalogus codicum graecorum sinaiticorum](https://www.ponomar.net/data/paleography/gardthausen.pdf).
   Oxonii, 1886.
