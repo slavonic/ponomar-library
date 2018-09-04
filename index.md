@@ -11,7 +11,7 @@ title: Ponomar Library
 ### Liturgical Chant Books
 
 Link to chantbooks goes here.    
-[View details&nbsp;»](/chantbooks.html)
+[View details&nbsp;»](/ponomar-library/chantbooks.html)
 
 </div><div class="col-md-4">
 
