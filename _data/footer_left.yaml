@@ -1,0 +1,8 @@
+en:
+  - title: "&copy; 2005-!YEAR_NOW! Slavonic Computing Initiative"
+    link: /aboutus.html
+
+ru:
+  - title: "&copy; 2005-!YEAR_NOW! Инициативная группа славянской информатики"
+    link: /ru/aboutus.html
+    

@@ -1,0 +1,61 @@
+/* make current language in lang selector bold */
+.en:lang(en), .fr:lang(fr), .zh:lang(zh), .ru:lang(ru) {
+    font-weight: bold;
+}
+
+a.lang-selector {
+    display: inline-block !important;
+}
+
+a {
+    color: #818a91;
+    text-decoration: none
+}
+
+a:hover {
+    color: #373a3c;
+    text-decoration: underline;
+}
+
+.small-logo {
+    width: 24px;
+    height: 24px;
+    margin-top: -12px;
+    margin-left: -12px;
+}
+
+.big-logo {
+    width: 32px;
+    height: 32px;
+    margin-top: -10px;
+}
+
+.spacer {
+    margin-bottom: 2em;
+}
+
+.jumbotron {
+    background-image: url("../images/cover.jpg");
+    background-size: cover;
+    color: white;
+    text-shadow: 5px 5px 8px rgba(0, 0, 0, 0.8);
+    border-radius: 0;
+    padding: 6rem 2rem;
+}
+
+.footer-item {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.featurette-image img {
+    width: 100%;
+}
+
+.featurette-divider {
+    margin-bottom: 3rem;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
