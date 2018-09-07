@@ -49,3 +49,16 @@ lang: ru
 
 * [Τὰ νέα εὐρήματα τοῦ Σινᾶ](https://www.ponomar.net/data/protected/nicolopoulos.pdf)
   / ᾿Επ. Π. Γ. Νικολόπουλος. ᾿Αθῆναι, 1998.
+
+#### Библиотека греческой Иерусалимской патриархии
+
+* Α. Παπαδόπουλος-Κεραμεύς. Ἱεροσολυμιτική βιβλιοθήκη.
+  [1891, Τ. Α](https://www.ponomar.net/data/paleography/papadopoulos1.pdf);
+  [1894, Τ. Β](https://www.ponomar.net/data/paleography/papadopoulos2.pdf);
+  [1897, Τ. Γ](https://www.ponomar.net/data/paleography/papadopoulos3.pdf);
+  [1899, Τ. Δ](https://www.ponomar.net/data/paleography/papadopoulos4.pdf);
+  [1915, Τ. Ε](https://www.ponomar.net/data/paleography/papadopoulos5.pdf);
+
+* [Checklist of Manuscripts in the Libraries of the Greek and Armenian Patriarchates in Jerusalem
+  microfilmed for the Library of Congress, 1949-1950](http://lcweb2.loc.gov/service/gdc/scd0001/2012/20120108001ch/20120108001ch.pdf)
+  / Ed. K. W. Clark. Washington, 1953.
