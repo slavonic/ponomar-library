@@ -57,8 +57,61 @@ are taught at St. Petersburg Theological Academy.
   [1894, Τ. Β](https://www.ponomar.net/data/paleography/papadopoulos2.pdf);
   [1897, Τ. Γ](https://www.ponomar.net/data/paleography/papadopoulos3.pdf);
   [1899, Τ. Δ](https://www.ponomar.net/data/paleography/papadopoulos4.pdf);
-  [1915, Τ. Ε](https://www.ponomar.net/data/paleography/papadopoulos5.pdf);
+  [1915, Τ. Ε](https://www.ponomar.net/data/paleography/papadopoulos5.pdf).
 
 * [Checklist of Manuscripts in the Libraries of the Greek and Armenian Patriarchates in Jerusalem
   microfilmed for the Library of Congress, 1949-1950](http://lcweb2.loc.gov/service/gdc/scd0001/2012/20120108001ch/20120108001ch.pdf)
   / Ed. K. W. Clark. Washington, 1953.
+
+#### Bibliothèque Nationale de France
+
+* R. Devreesse. Catalogue des Manuscrits Grecs. Paris.
+  [1945. Tome II. Fonds Coislin](https://gallica.bnf.fr/ark:/12148/bpt6k2091387);
+  [1960. Tome III. Le supplément grec](https://gallica.bnf.fr/ark:/12148/bpt6k209139m/f3.image).
+
+#### Biblioteca Apostolica Vaticana
+
+* I. Mercati, P. F. de Cavalieri. Bibliothecae Apostolicae Vaticanae codices manu scripti recensiti.
+  Codices Vaticani graeci.
+  [1923. T. 1. Codices 1-329](https://www.ponomar.net/data/paleography/mercati.pdf).
+
+* R. Devreesse. Bibliothecae Apostolicae Vaticanae codices manu scripti recensiti.
+  Codices Vaticani graeci.
+  [1937. T. 2. Codices 330-603](https://www.ponomar.net/data/paleography/devreesse1.pdf);
+  [1950. T. 3. Codices 604-866](https://www.ponomar.net/data/paleography/devreesse2.pdf)
+
+* P. Schreiner. [Bibliothecae Apostolicae Vaticanae codices manu scripti recensiti.
+  Codices Vaticani graeci. Codices 867--932](https://www.ponomar.net/data/paleography/schreiner.pdf). 1988.
+
+* C. Gianelli. [Bibliothecae Apostolicae Vaticanae codices manu scripti recensiti.
+  Codices Vaticani graeci. Codices 1485--1683](https://www.ponomar.net/data/paleography/gianelli1.pdf). 1950.
+
+* C. Gianelli; add. by P. Canart. [Bibliothecae Apostolicae Vaticanae codices manu scripti recensiti.
+  Codices Vaticani graeci. Codices 1684--1744](https://www.ponomar.net/data/paleography/gianelli2.pdf). 1961.
+
+* P. Canart. Bibliothecae Apostolicae Vaticanae codices manu scripti recensiti.
+  Codices Vaticani graeci. Codices 1745--1962.
+  [1970. T. 1.](https://www.ponomar.net/data/paleography/canart1.pdf)
+  [1973. T. 2.](https://www.ponomar.net/data/paleography/canart2.pdf)
+
+* S. Lilla. Bibliothecae Apostolicae Vaticanae codices manu scripti recensiti.
+  Codices Vaticani graeci. 
+  [1985. Codices 2162--2254](https://www.ponomar.net/data/paleography/lilla1.pdf);
+  [1996. Codices 2644--2663](https://www.ponomar.net/data/paleography/lilla2.pdf).
+
+#### British Library (prior to 1973 -- British Museum)
+
+* J. Forshall. Catalogue of Manuscripts in the British Museum. London.
+  [1834. Vol. 1. Part I. The Arundell Manuscripts.](https://books.google.com/books?id=lpZbtQEACAAJ&hl=en&pg=PP5#v=onepage&q&f=false)
+  [1840. Vol. 1. Part II. The Burney Manuscripts.](https://books.google.com/books?id=qvNfAAAAcAAJ&hl=en&pg=PP5#v=onepage&q&f=false)
+  [1840. Vol. 1. Part III. Index.](https://books.google.com/books?id=uPNfAAAAcAAJ&hl=en&pg=PP7#v=onepage&q&f=false)
+
+* R. Nares. A Catalogue of the Harleian Manuscripts in the British Museum. London.
+  [1808. Vol. 1.](https://books.google.com/books?id=FVxNAAAAcAAJ&hl=en&pg=PP9#v=onepage&q&f=false)
+  [1808. Vol. 2.](https://books.google.com/books?id=WVxNAAAAcAAJ&hl=en&pg=PP9#v=onepage&q&f=false)
+  [1808. Vol. 3.](https://books.google.com/books?id=tFxNAAAAcAAJ&hl=en&pg=PP9#v=onepage&q&f=false)
+  [1812. Vol. 4. Indeces.](https://books.google.com/books?id=5lxNAAAAcAAJ&dq=nares%20catalogue%20of%20the%20harleian%20manuscripts&hl=en&pg=PP542#v=onepage&q=nares%20catalogue%20of%20the%20harleian%20manuscripts&f=false)
+
+* M. Richard. [Inventaire des manuscrits grecs du British Museum.
+  I. Fonds Sloane, Additional, Egerton, Cottonian et Stowe](https://www.ponomar.net/data/paleography/richard.pdf).
+  Paris, 1952.
