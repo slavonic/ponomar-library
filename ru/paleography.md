@@ -115,3 +115,21 @@ lang: ru
 * M. Richard. [Inventaire des manuscrits grecs du British Museum.
   I. Fonds Sloane, Additional, Egerton, Cottonian et Stowe](https://www.ponomar.net/data/paleography/richard.pdf).
   Paris, 1952.
+
+#### Московская Синодальная библиотека (теперь Государственный исторический музей)
+
+* C. F. Matthaei. Accurata Codicum Graecorum Mss. Bibliothecarum Mosquensium Sanctisimae Synodi
+  Notitia et Recensio. [T. I, II. Lipsiae, 1805](https://www.ponomar.net/data/paleography/matthaei.pdf).
+
+* Архим. Савва (Тихомиров). Указатель для обозрѣнія московской Патріаршей (нынѣ Сѵнодальной) ризницы и библіотеки.
+  [3-е изд. Москва, 1858](https://www.ponomar.net/data/paleography/savva.pdf).
+
+* _Он же_. Specimina palaeographica codicum graecorum et slavonicorum bibliothecae Mosquensis Synodalis, saec. VI--XVII.
+  [Москва, 1863](https://www.ponomar.net/data/paleography/savva2.pdf).
+
+* Архим. Владимир (Филантропов). Систематическое описаніе рукописей московской Синодальной (Патріаршей) библіотеки.
+  [Ч. 1. Рукописи греческія. Москва, 1894](https://www.ponomar.net/data/paleography/vladimir.pdf).
+
+* Б. Л. Фонкич, Ф. Б. Поляков. Греческие рукописи московской Синодальной библиотеки.
+  Палеографические, кодикологические и библиографические дополнения к каталогу архимандрита Владимира (Филантропова).
+  [Москва, 1993](https://www.ponomar.net/data/paleography/fonkich.pdf).
