@@ -133,3 +133,15 @@ are taught at St. Petersburg Theological Academy.
 * B. L. Fonkich, F. B. Polyakov. Греческие рукописи московской Синодальной библиотеки.
   Палеографические, кодикологические и библиографические дополнения к каталогу архимандрита Владимира (Филантропова).
   [Moscow, 1993](https://www.ponomar.net/data/paleography/fonkich.pdf).
+
+#### National Library of Russia (formerly Imperial Public Library)
+
+* Ye. E. Granstrem. [Каталог греческих рукописей ленинградских хранилищ](https://www.ponomar.net/data/paleography/granstrem.pdf)
+  / Византийский временник.
+
+* I. N. Lebedeva. [Каталог греческих рукописей
+  Российской национальной библиотеки](https://www.ponomar.net/data/protected/lebedeva.pdf). St. Petersburg, 2014.
+
+* Ye. V. Gertsman. Греческие музыкальные рукописи Петербурга. Каталог.
+  [Том 1. Российская национальная библиотека](https://www.ponomar.net/data/paleography/gertsman1.pdf). St. Petersburg, 1996.
+
