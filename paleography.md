@@ -145,3 +145,11 @@ are taught at St. Petersburg Theological Academy.
 * Ye. V. Gertsman. Греческие музыкальные рукописи Петербурга. Каталог.
   [Том 1. Российская национальная библиотека](https://www.ponomar.net/data/paleography/gertsman1.pdf). St. Petersburg, 1996.
 
+### Parchment Ruling Types
+
+* J. Leroy. [Les Type de Réglure des Manuscrits
+  Grecs](https://www.ponomar.net/data/paleography/leroy_types.pdf). Paris, 1976.
+
+* J.-H. Sautel. [Répertoire de Réglure dans les Manuscrits 
+  Grecs sur Parchemin](https://www.ponomar.net/data/protected/sautel.pdf).
+  Brepols, 1995.

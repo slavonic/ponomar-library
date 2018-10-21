@@ -146,3 +146,12 @@ lang: ru
 
 * Е. В. Герцман. Греческие музыкальные рукописи Петербурга. Каталог.
   [Том 1. Российская национальная библиотека](https://www.ponomar.net/data/paleography/gertsman1.pdf). СПб., 1996.
+
+### Виды разлиновки пергамента
+
+* J. Leroy. [Les Type de Réglure des Manuscrits
+  Grecs](https://www.ponomar.net/data/paleography/leroy_types.pdf). Paris, 1976.
+
+* J.-H. Sautel. [Répertoire de Réglure dans les Manuscrits 
+  Grecs sur Parchemin](https://www.ponomar.net/data/protected/sautel.pdf).
+  Brepols, 1995.
